@@ -1,0 +1,9 @@
+{
+  "name": "tinyfish-jobhunter-ai",
+  "version": "1.0.0",
+  "description": "TinyFish-powered live job and internship discovery app",
+  "type": "module",
+  "scripts": {"start": "node server.js", "dev": "node --watch server.js"},
+  "dependencies": {"dotenv": "^16.4.7", "express": "^4.21.2"},
+  "engines": {"node": ">=18"}
+}
